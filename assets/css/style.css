@@ -1,0 +1,38 @@
+*{
+    background: radial-gradient(circle at 40% 40%, #9e9bd2 25%, transparent 26%),radial-gradient(circle at 60% 60%, #9e9bd280 25%, transparent 26%);
+        background-size: 3em 3em;
+        background-color: #ffffff;
+        opacity: 1
+}
+
+#cityInput{
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#cityName{
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#inputContainer{
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button{
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
